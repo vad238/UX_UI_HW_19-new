@@ -1,0 +1,398 @@
+<head>
+    <meta charset="utf-8">
+    
+    <script nonce="">
+      if (function() {
+        try { eval('(() => { const dtFormat = new Intl.ListFormat()})();') } catch (e) { return true }
+      }()) {
+        location.href = '/unsupported_browser'
+      }
+    </script>
+    <div style="position: fixed; top: -1000px; left: -1000px;">
+        <div aria-hidden="true" id="font-ui-400-normal">a</div>
+        <div aria-hidden="true" id="font-ui-400-italic">a</div>
+        <div aria-hidden="true" id="font-ui-500-normal">a</div>
+        <div aria-hidden="true" id="font-ui-500-italic">a</div>
+        <div aria-hidden="true" id="font-ui-600-normal">a</div>
+        <div aria-hidden="true" id="font-ui-600-italic">a</div>
+
+        <div aria-hidden="true" id="font-ui-400-normal-white">a</div>
+      </div>
+      <div class="viewport_overlay--overflowContainer--eQLOF" style="top: 48px; left: 241px; height: 799px; width: 656px;"><div class="viewport_overlay--innerContainer--8K6-R" style="top: -48px; left: -241px;"><clustered-pins></clustered-pins></div></div>
+      <div class="file-browser-loading-page-container" data-preferred-theme="light">
+  <!--  Minimal theming logic, duplicated from web/js/figma_app/hooks/themes.ts -->
+<script nonce="">
+  let theme = window.localStorage.getItem('global-debug-theme-preference')
+  if (!theme || theme === 'legacy') {
+    theme = 'light'
+  }
+  document.querySelector(".file-browser-loading-page-container").dataset.preferredTheme = theme
+</script>
+
+<iframe src="https://sprig.figma.com" aria-hidden="true" tabindex="-1" height="0" width="0" style="position: fixed; bottom: 0px; right: 0px; z-index: 2147483647; color-scheme: normal;"></iframe>
+<body class="fullscreen_view--fullscreenBody--HPyx2" style="color-scheme: light;" data-preferred-theme="light" data-editor-theme="design">
+      <div style="position: fixed; top: -1000px; left: -1000px;">
+        <div aria-hidden="true" id="font-ui-400-normal">a</div>
+        <div aria-hidden="true" id="font-ui-400-italic">a</div>
+        <div aria-hidden="true" id="font-ui-500-normal">a</div>
+        <div aria-hidden="true" id="font-ui-500-italic">a</div>
+        <div aria-hidden="true" id="font-ui-600-normal">a</div>
+        <div aria-hidden="true" id="font-ui-600-italic">a</div>
+
+        <div aria-hidden="true" id="font-ui-400-normal-white">a</div>
+      </div>
+
+    <div id="react-page"><div data-testid="statsig-comp"><div class="in_app_page--app--KxUei in_app_page--appFont--2LLwy"><div class="in_app_page--content--5Tb91"><div aria-hidden="false" class="fullscreen_view--flexContainer--mvAVr"><div class="fullscreen_view--page--GTGbo" data-forward-events-to-fullscreen="true"><div><div id="fullscreen-root" style="visibility: visible;"><div class="view container-view" style="inset: 0px; width: auto; height: auto;"><div class="view container-view" style="inset: 48px 241px 0px 0px; width: auto; height: auto;"><div class="view container-view" style="inset: 0px 0px 0px 241px; width: auto; height: auto;"><div class="view container-view _n0gz0642f3" style="inset: 0px; width: auto; height: auto;"><div class="view gpu-view-content" style="display: block; inset: 0px; width: auto; height: auto;"><canvas width="1312" height="1598" style="width: 656px; height: 799px;"></canvas></div></div></div><div class="view container-view" style="inset: 0px auto 0px 0px; width: 240px; height: auto;"></div><div class="view container-view" style="inset: 0px auto 0px 240px; width: 2px; height: auto;"></div></div></div><textarea tabindex="-1" wrap="off" aria-hidden="true" spellcheck="false" autocorrect="off" class="focus-target" style="width: 1px; opacity: 0;"></textarea><input readonly="" tabindex="-1" aria-hidden="true" role="application" class="focus-target" aria-label="Figma design" aria-activedescendant="hidden-input-activedescendant" style="opacity: 0; top: -200px;"></div></div><div tabindex="0"></div><div><div class="toolbar_view--toolbar--PlT-m js-fullscreen-prevent-event-capture" role="region" aria-label="Main toolbar"><div role="none"><button id="toggle-menu-button" class="action--enabled--QGZWZ action--root--2S0Jk toolbar_styles--enabledButton--aJVqf toolbar_view--menuButton--ecxh4 " data-tooltip-type="lookup" data-tooltip="main-menu" data-onboarding-key="FULLSCREEN_TOGGLE_MENU" aria-label="Main menu" aria-expanded="false" aria-controls="27e9f5ba-c022-4111-b5b0-063b287a2062" aria-haspopup="menu" data-fullscreen-intercept="true"><span class="svg-container"><svg class="svg" width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M10.5 11c0-1.657 1.343-3 3-3h5c1.657 0 3 1.343 3 3 0 1.043-.533 1.963-1.341 2.5.808.537 1.341 1.457 1.341 2.5 0 1.657-1.343 3-3 3-.768 0-1.47-.289-2-.764V21c0 1.657-1.343 3-3 3-1.657 0-3-1.343-3-3 0-1.044.533-1.962 1.341-2.5-.808-.538-1.341-1.456-1.341-2.5 0-1.043.533-1.963 1.341-2.5-.808-.537-1.341-1.457-1.341-2.5zm3 2c-1.105 0-2-.895-2-2 0-1.105.895-2 2-2h2v4h-2zm2 1h-2c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2h2v-4zm0 5h-2c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2 1.105 0 2-.895 2-2v-2zm3-5c-1.105 0-2 .895-2 2 0 1.105.895 2 2 2 1.105 0 2-.895 2-2 0-1.105-.895-2-2-2zm0-1c1.105 0 2-.895 2-2 0-1.105-.895-2-2-2h-2v4h2z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><span class="svg-container action--svgChevron--jNC3a"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></button></div><div class="toolbar_view--buttonGroup--bFGL5 toolbar_view--leftButtonGroup--zCYLW "><div><div class="toolbar_styles--flyout--acOzD toolbar_styles--activeButton---l2Sf" data-tooltip-type="lookup" data-tooltip="set-tool-default" data-testid="set-tool-default"><span class="svg-container toolbar_styles--flyoutButton--GVRKh"><svg class="svg" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M14.872 8.859L3.646 2.072l-.98-.592.231 1.121 2.683 13 .243 1.178.664-1.003 3.038-4.59 5.22-1.417 1.127-.306-1-.604zM4.108 3.52l9.247 5.59-4.274 1.16-.182.05-.104.156-2.479 3.746L4.108 3.52z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><div class="chevron--chevronContainer---Ptps  " data-tooltip-type="text" data-tooltip="Move tools" data-testid="move-flyout-chevron" data-onboarding-key="move-flyout"><span class="svg-container chevron--svgChevron--tJ3pf toolbar_styles--chevron--G32Ix"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div><div><div class="toolbar_styles--flyout--acOzD toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-frame" data-onboarding-key="frame" data-testid="set-tool-frame"><span class="svg-container toolbar_styles--flyoutButton--GVRKh"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M3 16v-3H0v-1h3V4H0V3h3V0h1v3h8V0h1v3h3v1h-3v8h3v1h-3v3h-1v-3H4v3H3zm9-4V4H4v8h8z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><div class="chevron--chevronContainer---Ptps  " data-tooltip-type="text" data-tooltip="Region tools" data-testid="region-flyout-chevron" data-onboarding-key="region-flyout"><span class="svg-container chevron--svgChevron--tJ3pf toolbar_styles--chevron--G32Ix"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div><div><div class="toolbar_styles--flyout--acOzD toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-rectangle" data-testid="set-tool-rectangle"><span class="svg-container toolbar_styles--flyoutButton--GVRKh"><svg class="svg" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M16 2v14H2V2h14zm0 15h1V1H1v16h15z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><div class="chevron--chevronContainer---Ptps  " data-tooltip-type="text" data-tooltip="Shape tools" data-testid="shape-flyout-chevron" data-onboarding-key="shape-flyout"><span class="svg-container chevron--svgChevron--tJ3pf toolbar_styles--chevron--G32Ix"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div><div><div class="toolbar_styles--flyout--acOzD toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-pen" data-onboarding-key="pen" data-testid="set-tool-pen"><span class="svg-container toolbar_styles--flyoutButton--GVRKh"><svg class="svg" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M3.444 2.737l6.666 1.9.012.004.011.003C12.072 5.146 13.5 6.907 13.5 9c.003.503-.063.912-.211 1.367l-.185.58.43.43 1.865 1.866-2.12 2.121-1.848-1.847-.435-.435-.585.193c-.469.157-.891.228-1.411.225-2.171 0-3.985-1.539-4.407-3.586l-.008-.037-.01-.037-1.832-6.39 4.903 4.903C7.552 8.55 7.5 8.768 7.5 9c0 .828.672 1.5 1.5 1.5.828 0 1.5-.672 1.5-1.5 0-.828-.672-1.5-1.5-1.5-.232 0-.45.052-.647.146l-4.91-4.91zm9.834 14.041l3.536-3.535-2.572-2.572c.167-.527.258-1.089.258-1.671 0-2.56-1.748-4.71-4.115-5.324L1 1l2.613 9.116C4.13 12.618 6.345 14.5 9 14.5c.602 0 1.182-.097 1.724-.276l2.554 2.554z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><div class="chevron--chevronContainer---Ptps  " data-tooltip-type="text" data-tooltip="Creation tools" data-testid="pen-flyout-chevron" data-onboarding-key="pen-flyout"><span class="svg-container chevron--svgChevron--tJ3pf toolbar_styles--chevron--G32Ix"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div><div data-testid="set-tool-type" class="toolbar_view--toolButtonContainer--aCOzq"><span role="button" aria-label="Text" class="svg-container toolbar_view--iconButton--E-0jv toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-type" data-onboarding-key="tool-type-onboarding" tabindex="0" aria-pressed="false" data-fullscreen-intercept="true"><svg class="svg" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M2 5h1V2h5v14H5v1h7v-1H9V2h5v3h1V1H2v4z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div><span class="toolbar_view--actionButtonContainer--qkxun"><span id="toolbar-action-component-insert" class="svg-container toolbar_view--iconButton--E-0jv toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="component-insert" data-onboarding-key="insert" data-tooltip-submenu-open="false"><svg class="svg" width="17" height="17" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg"><path d="M6.5 1.5h-4v4h4v-4zm-5-1v6h6v-6h-6zm2.99 9.525L2.013 12.5l2.475 2.475L6.964 12.5l-2.475-2.475zM.6 12.5l3.89 3.89 3.888-3.89L4.49 8.61.6 12.5zm14.9-2h-4v4h4v-4zm-5-1v6h6v-6h-6zm3.461-9h-.922v2.538H10.5v.924h2.539V6.5h.922V3.962H16.5v-.924h-2.539V.5z" fill-rule="evenodd" fill-opacity="1" fill="#fff" stroke="none"></path></svg></span></span><div data-testid="set-tool-hand" class="toolbar_view--toolButtonContainer--aCOzq"><span role="button" aria-label="Hand tool" class="svg-container toolbar_view--iconButton--E-0jv toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-hand" tabindex="0" aria-pressed="false" data-fullscreen-intercept="true"><svg class="svg" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2.026 12.382c-.518-.487-.57-1.308-.118-1.856.435-.527 1.191-.62 1.74-.216l1.347.996 1 .739V4c0-.552.448-1 1-1 .553 0 1 .448 1 1v5h1V2c0-.552.448-1 1-1 .553 0 1 .448 1 1v7h1V3c0-.552.448-1 1-1 .553 0 1 .448 1 1v6h1V6c0-.552.448-1 1-1 .553 0 1 .448 1 1v8c0 2.762-2.238 5-5 5h-1c-1.553 0-2.94-.708-3.858-1.82-.036-.028-.071-.06-.106-.092l-5.005-4.706zm4.4 5.507l-.08-.072-5.005-4.706c-.902-.848-.993-2.267-.204-3.221.772-.936 2.127-1.106 3.105-.384l.753.557V4c0-1.104.896-2 2-2 .365 0 .706.097 1 .268V2c0-1.105.896-2 2-2 .873 0 1.615.559 1.888 1.338.318-.214.7-.338 1.112-.338 1.105 0 2 .895 2 2v1.268c.295-.17.636-.268 1-.268 1.105 0 2 .896 2 2v8c0 3.314-2.686 6-6 6h-1c-1.83 0-3.47-.821-4.57-2.111z" fill-rule="evenodd" fill-opacity="1" fill="#fff" stroke="none"></path></svg></span></div><div data-testid="set-tool-comments" class="toolbar_view--toolButtonContainer--aCOzq"><span role="button" aria-label="View comments" class="svg-container toolbar_view--iconButton--E-0jv toolbar_styles--enabledButton--aJVqf" data-tooltip-type="lookup" data-tooltip="set-tool-comments" data-onboarding-key="comment" tabindex="0" aria-pressed="false" data-fullscreen-intercept="true"><svg class="svg" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M1.944 16.75l1.696-2.758.287-.465-.237-.493c-.465-.951-.697-1.91-.69-3.034 0-3.866 3.134-7 7-7 3.866 0 7 3.134 7 7 0 3.866-3.134 7-7 7-1.14.007-2.112-.232-3.074-.709l-.268-.131-.296.037-4.418.552zm4.543.44c1.06.518 2.253.81 3.513.81 4.418 0 8-3.582 8-8 0-4.418-3.582-8-8-8-4.418 0-8 3.582-8 8 0 1.243.283 2.419.789 3.468l-2.117 3.44L0 18l1.272-.159 5.215-.652z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div><div data-onboarding-key="center_button_group" class="toolbar_view--buttonGroup--bFGL5 toolbar_view--centerButtonGroup--68Q-r"><div class="visually_hidden--visuallyHidden--sMum-" role="status">The Figma editor is not currently optimized for screen readers. Please consider presenting this design for a better screen reader experience. To do so, use the keyboard shortcut ⌥⌘↩ .</div><div class="toolbar_view--cachedFilenameViewSubtree--fGjfk" style="display: block;"><div class="filename_view--filename--egqgJ" id="fullscreen-filename" data-onboarding-key="FULLSCREEN_FILENAME_CONTAINER"><div class="filename_view--pageTitle--3u6np text--fontNeg14--TmjQA text--_fontBase--VaHfk text--_negText--7Cnf0"><div class="filename_view--folder--iZYVV"><div class="filename_view--folderNameInteractive---ALAG filename_view--folderName--Q2b88 ellipsis--ellipsis--70pHK" role="link" tabindex="0">Drafts</div><span class="svg-container filename_view--pathSeparator--vS7s3" aria-hidden="true"><svg class="svg" aria-hidden="true" width="9" height="18" viewBox="0 0 9 18" xmlns="http://www.w3.org/2000/svg"><path d="M1.032 16.825l6-16 .936.35-6 16-.936-.35z" fill-rule="nonzero" fill-opacity="1" fill="#fff" stroke="none"></path></svg></span></div><span class="filename_view--titleWithToggleContainer--aXP2c filename_view--title--Qhcgs ellipsis--ellipsis--70pHK" dir="auto" data-testid="filename" tabindex="0" role="textbox" aria-label="File name">Vad portfolio</span><div class="filename_view--branchStatus--ceirq"></div><div class="filename_view--chevronNoMainContainer--g-pUb"><div class="chevron--chevronContainer---Ptps  filename_view--chevronNoMainBadge--GUGD9 filename_view--chevron--NjO0h" data-tooltip-type="text" data-testid="filename-menu-chevron" data-onboarding-key="FULLSCREEN_FILENAME_CHEVRON" tabindex="0" role="button" aria-label="Edit file menu"><span class="svg-container chevron--svgChevron--tJ3pf filename_view--chevronSVG--w6pal"><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div></div></div></div><div class="toolbar_view--buttonGroup--bFGL5 toolbar_view--rightButtonGroup--3zDnW "><div class="multiplayer_view--multiplayerView--dkdv7"><style>
+  .multiplayer-animation-svg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 32px;
+  }
+
+  .multiplayer-animation-svg.horizontal {
+    padding-left: 14.5px;
+  }
+
+  .multiplayer-animation-droplet {
+    left: 9px;
+    top: 0px;
+    height: 2px;
+    width: 14px;
+    border-radius: 0px;
+    position: absolute;
+  }
+
+  .multiplayer-animation-droplet-horizontal {
+    left: 0px;
+    top: 16.5px;
+    height: 14px;
+    width: 2px;
+    border-radius: 0px;
+    position: absolute;
+  }
+
+  .multiplayer-animation-droplet.selected {
+    animation: droplet 0.3s ease-in forwards;
+  }
+
+  .multiplayer-animation-droplet-horizontal.selected {
+    animation: droplet-horizontal 0.3s ease-in forwards;
+  }
+
+  .multiplayer-animation-droplet.deselected {
+    animation: droplet-reverse 0.2s ease-out 0.4s forwards;
+    left: 12.5px;
+    top: 0px;
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+  }
+
+  .multiplayer-animation-droplet-horizontal.deselected {
+    animation: droplet-horizontal-reverse 0.2s ease-out 0.4s forwards;
+    left: 12.5px;
+    height: 0px;
+    width: 0px;
+    border-radius: 0px;
+  }
+
+  .multiplayer-animation-circle {
+    stroke-dasharray: 400;
+    stroke-dashoffset: 400;
+    transform-origin: center;
+    transform: rotateZ(-90deg);
+  }
+
+  .multiplayer-animation-circle.horizontal {
+    transform: rotateZ(-180deg);
+  }
+
+  .multiplayer-animation-circle.selected {
+    animation: draw-circle 0.15s ease-in 0.3s forwards;
+  }
+
+  .multiplayer-animation-circle-horizontal.selected {
+    animation: draw-circle-horizontal 0.15s ease-in 0.3s forwards;
+  }
+
+  .multiplayer-animation-circle.deselected {
+    animation: draw-circle-reverse 0.4s ease-in forwards;
+  }
+
+  .multiplayer-animation-circle.presenting {
+    stroke-dasharray: 3;
+    animation: rotating 30s linear infinite
+  }
+
+  @keyframes rotating {
+    from {
+      transform: rotateZ(0deg);
+    }
+    to {
+      transform: rotateZ(360deg);
+    }
+  }
+
+  @keyframes droplet {
+    0% {
+      left: 9px;
+      top: 0px;
+      height: 2px;
+      width: 14px;
+      border-radius: 0px;
+    }
+    20% {
+      left: 12.5px;
+      top: -3.5px;
+      height: 7px;
+      width: 7px;
+      border-radius: 100%;
+    }
+    66% {
+      top: -2px;
+      height: 7px;
+    }
+    98% {
+      top: 5px;
+      left: 14.5px;
+      height: 3px;
+      width: 3px;
+      border-radius: 100%;
+    }
+    99% {
+      top: 5px;
+      left: 15.5px;
+      height: 1px;
+      width: 1px;
+      border-radius: 100%;
+    }
+    100% {
+      top: 5px;
+      left: 15.5px;
+      height: 0px;
+      width: 0px;
+      border-radius: 100%;
+    }
+  }
+
+  @keyframes droplet-horizontal {
+    0% {
+      left: 0;
+      top: 16.5px;
+      height: 14px;
+      width: 2px;
+      border-radius: 0px;
+    }
+    20% {
+      top: 19.5px;
+      left: -3.5px;
+      height: 7px;
+      width: 7px;
+      border-radius: 100%;
+    }
+    66% {
+      left: -2px;
+      width: 7px;
+    }
+    99% {
+      left: 5px;
+      top: 21.5px;
+      height: 3px;
+      width: 3px;
+      border-radius: 100%;
+    }
+    100% {
+      left: 5px;
+      top: 22.5px;
+      height: 0px;
+      width: 0px;
+      border-radius: 100%;
+    }
+  }
+
+  @keyframes draw-circle {
+    0% {
+      stroke-dashoffset: 400;
+    }
+    100% {
+      stroke-dashoffset: 300;
+    }
+  }
+
+  @keyframes droplet-reverse {
+    0% {
+      left: 12.5px;
+      top: 0px;
+      height: 2px;
+      width: 2px;
+      border-radius: 0px;
+    }
+    100% {
+      left: 9px;
+      top: 0px;
+      height: 2px;
+      width: 14px;
+      border-radius: 0px;
+    }
+  }
+
+  @keyframes droplet-horizontal-reverse {
+    0% {
+      left: 0px;
+      height: 2px;
+      width: 2px;
+      border-radius: 0px;
+    }
+    100% {
+      left: 0px;
+      width: 2px;
+      height: 14px;
+      border-radius: 0px;
+    }
+  }</style><span class="multiplayer_view--users--3qt4K"><span><span data-onboarding-key="multiplayer-spotlight-nux-key" class="voice_toolbar--avatarWrapper--M4a68"><button class="voice_toolbar--avatarObserveClickTarget--3wPY2" data-tooltip-proxy-element-id="voice-avatar-session-28" aria-label="Follow Vadym Av" data-fullscreen-intercept="true"></button><div class="multiplayer_view--userIconView--dDvae"><div id="voice-avatar-session-28" data-tooltip-type="special" data-tooltip="tooltip-view-user-profile" data-tooltip-user-handle="Vadym Av (you)" data-tooltip-user-session-id="28" data-tooltip-timeout-delay="150" data-tooltip-user-profile-url="/files/user/1185374439421758512" data-tooltip-click-action="start-presenting" data-tooltip-max-width="300" data-tooltip-offset-y="8" data-tooltip-interactive="true" style="display: inherit;"><svg class="multiplayer-animation-svg " viewBox="0 0 32 48" aria-hidden="true"><circle class="multiplayer-animation-circle  " cx="16" cy="24" r="14.5" fill="none" stroke="#FF24BD" stroke-width="2.4" aria-hidden="true"></circle></svg><div class="multiplayer_view--normal---P25j"><span class="avatar--avatar--gnJ3d avatar--circle--llyF0 multiplayer_view--userIconAvatar--JUHxu" aria-hidden="true" style="display: flex; justify-content: center; color: var(--color-textonmultiplayerblue); background-color: rgb(102, 119, 153);">V</span></div></div></div></span></span></span><div class="toolbar_view--shareButtonContainer--Gd-EG"><button type="button" class="toolbar_view--shareButton--3k5cj toolbar_view--textButtonContainer--5qNR- toolbar_view--textButton--a8Z30 basic_form--primaryBtn--jDHWr basic_form--btn--t7Y67 ellipsis--ellipsis--70pHK text--fontPos11--rO47d text--_fontBase--VaHfk" data-button-type="share" data-onboarding-key="share" data-tooltip-type="text" data-tooltip-show-immediately="true" data-tooltip-offset-y="6" data-testid="multiplayer-toolbar-share-button">Share</button></div></div><button class="action--enabled--QGZWZ action--root--2S0Jk toolbar_styles--enabledButton--aJVqf" data-tooltip-type="text" data-tooltip="Present" data-tooltip-shortcut-key="present-as-prototype" aria-label="Present" data-fullscreen-intercept="true"><span class="svg-container"><svg class="svg" width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 14.098l.765.478 8 5 .678.424-.678.424-8 5-.765.478V14.098zm1 1.804v8.196L24.557 20 18 15.902z" fill-rule="evenodd" fill-opacity="1" fill="#fff" stroke="none"></path></svg></span></button><button class="action--enabled--QGZWZ action--root--2S0Jk toolbar_styles--enabledButton--aJVqf toolbar_view--missingFontSvg--uWanF" data-tooltip-type="text" data-tooltip="Missing fonts" aria-label="Missing fonts" data-fullscreen-intercept="true"><span class="svg-container"><svg class="svg" width="14" height="10" viewBox="0 0 14 10" xmlns="http://www.w3.org/2000/svg"><path d="M3.111 1L0 9h1.073l.778-2h3.606l.777 2h1.073l-3.11-8H3.11zm1.957 5L3.654 2.364 2.24 6h2.828z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path><path d="M10.063 6.7h1.117c0-.973.25-1.364.96-1.802.7-.425 1.106-1.023 1.106-1.878 0-1.27-.96-2.13-2.394-2.13-1.317 0-2.372.77-2.422 2.176h1.187c.047-.828.637-1.191 1.235-1.191.664 0 1.203.441 1.203 1.133 0 .578-.352.984-.828 1.277-.758.465-1.188.953-1.165 2.414zm.59 2.417c.456 0 .816-.347.816-.797 0-.445-.36-.797-.817-.797-.453 0-.812.352-.816.797.004.45.363.797.816.797z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></button><div role="none"><button class="action--enabled--QGZWZ action--root--2S0Jk toolbar_styles--enabledButton--aJVqf zoom_menu--zoomMenu--UNx2A" data-tooltip-type="text" data-tooltip="Zoom/view options" data-onboarding-key="zoom-menu" data-fullscreen-intercept="true"><div class="zoom_menu--zoomMenuContainer--Yz8Qc"><div class="zoom_menu--zoomAmountWithChevron---XcIx zoom_menu--zoomAmount--rljmv" data-testid="zoom-amount">13%</div><div class="zoom_menu--chevronContainer--euGDh"><div class="chevron--chevronContainer---Ptps  " data-tooltip-type="text" data-testid="zoom-menu-chevron"><span class="svg-container chevron--svgChevron--tJ3pf "><svg class="svg" width="8" height="7" viewBox="0 0 8 7" xmlns="http://www.w3.org/2000/svg"><path d="M3.646 5.354l-3-3 .708-.708L4 4.293l2.646-2.647.708.708-3 3L4 5.707l-.354-.353z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div></button></div></div></div></div><div class="viewport_overlay--overflowContainer--eQLOF" style="top: 48px; left: 241px; height: 799px; width: 656px;"><div class="viewport_overlay--innerContainer--8K6-R" style="top: -48px; left: -241px;"><clustered-pins></clustered-pins></div></div><div role="none" data-keyboard-receiver="8" style="position: absolute;"><div data-forward-events-to-fullscreen="true" class="comments_view--viewContainer--Drfd9 comments_view--_container--Z1Awb"><div data-allow-component-drop="true" data-forward-events-to-fullscreen="true" class="comments_view--outerAnchorContainer--Y9Mmb comments_view--_container--Z1Awb" style="left: 241px; top: 48px; width: 656px; height: 799px;"></div></div></div><div class="viewport_overlay--overflowContainer--eQLOF" style="top: 48px; left: 241px; height: 799px; width: 656px;"><div class="viewport_overlay--innerContainer--8K6-R" style="top: -48px; left: -241px;"><div aria-hidden="true" data-forward-events-to-fullscreen="true" class="multiplayer_cursors--overlay--faG7K" style="top: 447.5px; left: 569px; transform: translate(234px, -20.5px);"><div class="multiplayer_cursors--multiplayerCursorsContainer--S0K82"></div></div></div></div><div aria-hidden="true" data-forward-events-to-fullscreen="true" class="multiplayer_cursors--root--cdJg0" style="left: 241px; top: 48px; width: 656px; height: 799px;"><div class="fake_cursor--container---GsiR" style="will-change: transform; transform: translate3d(1137px, 467px, 0px);"></div></div><div class="inline_editor_layer--animationRoot--3zq4-"></div><div></div><div class="left_panel--panelContainer--0MzSE left_panel--panelContainerBase--nMRWg js-fullscreen-prevent-event-capture" style="width: 240px;" data-popover-key="new-user-survey-anchor"><div class="left_panel--content---9G9r"><div class="pages_panel--pagesPanel--KJtmD pages_panel--verticalFlexContainer--FNe-- pagesPanel" style="width: 240px;"><div class="pages_panel--tabsHeaderBordered--2lxQ5 pages_panel--tabsHeader--eSE0P"><span role="button" aria-label="Find..." tabindex="0" class="svg-container raw_components--iconButtonEnabled--dC-EG raw_components--_iconButton--aCldD raw_components--transparentIconButtonEnabled--Chlr7 raw_components--iconButtonEnabled--dC-EG raw_components--_iconButton--aCldD canvas_search--searchIconButton--5EG2V" data-tooltip-type="lookup" data-tooltip="canvas-search" data-onboarding-key="canvas-search"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M9.04 9.81c-.739.576-1.668.917-2.676.917C3.953 10.727 2 8.775 2 6.364 2 3.953 3.953 2 6.364 2c2.41 0 4.363 1.953 4.363 4.364 0 1.008-.342 1.937-.916 2.676l3.484 3.483-.772.771L9.04 9.811zm.596-3.446c0 1.807-1.465 3.272-3.272 3.272-1.808 0-3.273-1.465-3.273-3.272 0-1.808 1.465-3.273 3.273-3.273 1.807 0 3.272 1.465 3.272 3.273z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><div class="pages_panel--tabActive--irRUr pages_panel--tab--M7qS8" data-label="Layers">Layers</div><div class="pages_panel--assetsTab--Aylkc" data-onboarding-key="ASSETS_PANEL_ONBOARDING_KEY"><div class="pages_panel--tab--M7qS8" data-label="Assets"><div>Assets</div></div></div><div class="pages_panel--pageTab--itz2g"><span class="pages_panel--pageTabText--erHP8 ellipsis--ellipsis--70pHK" data-onboarding-key="pages-panel-toggle">Page 1</span><span class="svg-container pages_panel--chevron--S4kxI"><svg class="svg" width="8" height="8" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg"><path d="M.646 3.354l.708-.708L4 5.293l2.646-2.647.708.708L4 6.707.646 3.354z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div><div class="pages_panel--objectPanelContent--Z7Bwf"><div><div class="objects_panel--scrollContainerWithBorder--x1qWz objects_panel--scrollContainer--uCLpi scroll_container--clipContainer--cL0WX js-fullscreen-wheel-event-capture" role="none" style="width: 240px;"><div role="none" class="scroll_container--scrollContainer--WKNyX scroll_container--full--S7bP3"><div class="scroll_container--full--S7bP3" role="none"><div><div class="objects_panel--rowContainer--Y1-LY" data-testid="objects-panel" style="height: 32px;"><div class="object_row--row--RUzis object_row--topLevel--SXq9o object_row--stack--b6-U3" draggable="false" data-testid="layer-row-with-children" style="transform: translate3d(0px, 0px, 0px); width: 240px; height: 32px;"><span class="object_row--indents--jpaAQ"><span class="object_row--indent--aWa0t"></span><span class="svg-container object_row--expandCaret--LW0Oy object_row--indent--aWa0t"><svg class="svg" width="6" height="6" viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg"><path d="M5 3L1 0v6l4-3z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></span><span class="object_row--layerIcon--n-wSF object_row--iconWrapper--pkwhY"><span class="svg-container"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M4 3v2h8V3H4zM3 7v2h10V7H3zm2 4v2h6v-2H5z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></span><span class="object_row--rowText--sye-W ellipsis--ellipsis--70pHK" dir="auto">AboutMe</span><span class="object_row--rowActions--20iku"><span class="svg-container object_row--lockIcon--pxiPe"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M10 6v1h.5c.276 0 .5.224.5.5v5c0 .276-.224.5-.5.5h-6c-.276 0-.5-.224-.5-.5v-5c0-.276.224-.5.5-.5H9V4.5C9 3.12 10.12 2 11.5 2 12.88 2 14 3.12 14 4.5V6h-1V4.5c0-.828-.672-1.5-1.5-1.5-.828 0-1.5.672-1.5 1.5V6z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span><span class="svg-container object_row--visibleIcon--BLXVW"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 10c1.105 0 2-.895 2-2 0-1.105-.895-2-2-2-1.104 0-2 .895-2 2 0 1.105.896 2 2 2z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path><path d="M8 4c2.878 0 5.378 1.621 6.635 4-1.257 2.379-3.757 4-6.635 4-2.878 0-5.377-1.621-6.635-4C2.623 5.621 5.122 4 8 4zm0 7c-2.3 0-4.322-1.194-5.478-3C3.678 6.194 5.7 5 8 5c2.3 0 4.322 1.194 5.479 3C12.322 9.806 10.3 11 8 11z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></span></div></div></div></div></div></div></div></div></div></div><div class="left_panel--edge--4KIqx" style="left: 240px;"></div></div><div role="none" data-keyboard-receiver="7"><div name="propertiesPanelContainer" class="properties_panel--drillDownContainerNarrow--0Za1e properties_panel--drillDownContainer--KR-kD"><div class="properties_panel--panelContainer---Vpdt js-fullscreen-prevent-event-capture" data-onboarding-key="properties-panel"><div class="properties_panel--tabsHeaderBordered--plexu properties_panel--tabsHeader--QWo-g pages_panel--tabsHeader--eSE0P"><div class="properties_panel--tabActive--pYz1g pages_panel--tabActive--irRUr pages_panel--tab--M7qS8" data-label="Design">Design</div><div class="properties_panel--tab--gxqEQ pages_panel--tab--M7qS8" data-label="Prototype">Prototype</div><div class="properties_panel--tab--gxqEQ pages_panel--tab--M7qS8" data-label="Inspect">Inspect</div></div><div class="properties_panel--scrollOuterContainer--gi3Dg"><div class="properties_panel--scrollContainer--NGdzl scroll_container--clipContainer--cL0WX js-fullscreen-wheel-event-capture" role="none" style="width: 240px;"><div role="none" id="properties-panel-scroll-container" class="scroll_container--scrollContainer--WKNyX scroll_container--full--S7bP3"><div class="scroll_container--full--S7bP3" role="none"><div><div class="properties_panel--propertiesPanel--gOq1f"><div><div aria-hidden="true" tabindex="0"></div><div><div class="cachedSubtree" style="display: block;"></div><div class="cachedSubtree" style="display: block;"><div class="raw_components--panel--YDedw "><div><div class="raw_components--singleRowNarrow--CAKjX raw_components--_singleRow--haOPc raw_components--singleRowHeight--r92RH raw_components--_row--6Yz0U raw_components--rowNarrow--IjMZh background_panel--panelTitleRow--XyTfF"><div class="raw_components--panelTitle--gPkqQ ">Page</div></div><div class="raw_components--singleRowNarrow--CAKjX raw_components--_singleRow--haOPc raw_components--singleRowHeight--r92RH raw_components--_row--6Yz0U raw_components--rowNarrow--IjMZh "><div class="background_panel--colorValueContainer--vIY5E paint_panels--colorValueContainer--QPBbG raw_components--base--O8WhL raw_components--borderFocusWithin--mSvWa raw_components--singleRowHeight--r92RH"><div class="chit--chit---YjnO background_panel--chit--IVeKj paint_panels--chit--o24xS" tabindex="0" style="background-color: rgb(245, 245, 245);"><div class="chit--chitAlpha--V5xdL" style="opacity: 0;"></div><div class="chit--chitBorder--eykfP" style="box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px inset;"></div></div><input autocomplete="new-password" spellcheck="false" class="raw_components--textInput--DZIFa raw_components--base--O8WhL raw_components--input--iFGv3 raw_components--singleRowHeight--r92RH background_panel--color--IO3-D paint_panels--colorInput--fcNWY" dir="auto" value="F5F5F5"><label class="background_panel--opacity--Aw7Hy paint_panels--opacityInputContainer--vGHrs scrubbable_control--container--myvKL" aria-label="Opacity" data-onboarding-key="scrubbable-control-opacity"><input autocomplete="new-password" spellcheck="false" class="raw_components--textInput--DZIFa raw_components--base--O8WhL raw_components--input--iFGv3 raw_components--singleRowHeight--r92RH " dir="auto" value="100%"></label></div><span role="button" aria-label="Show/hide" tabindex="0" class="svg-container raw_components--iconButtonEnabled--dC-EG raw_components--_iconButton--aCldD background_panel--visible--d6cJW"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 10c1.105 0 2-.895 2-2 0-1.105-.895-2-2-2-1.104 0-2 .895-2 2 0 1.105.896 2 2 2z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path><path d="M8 4c2.878 0 5.378 1.621 6.635 4-1.257 2.379-3.757 4-6.635 4-2.878 0-5.377-1.621-6.635-4C2.623 5.621 5.122 4 8 4zm0 7c-2.3 0-4.322-1.194-5.478-3C3.678 6.194 5.7 5 8 5c2.3 0 4.322 1.194 5.479 3C12.322 9.806 10.3 11 8 11z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div></div><div class="cachedSubtree" style="display: block;"><div class="raw_components--panel--YDedw "><div class="styles--localStylesPanel--YMhCU"><div class="raw_components--singleRowNarrow--CAKjX raw_components--_singleRow--haOPc raw_components--singleRowHeight--r92RH raw_components--_row--6Yz0U raw_components--rowNarrow--IjMZh styles--panelHeaderRowFaded--m-qir styles--panelHeaderRow--n16bi styles--styleTypeSectionRow--Z-Hyk draggable_list--panelHeaderRowFaded--JR1vo"><div class="raw_components--panelTitle--gPkqQ styles--panelTitleText--gmwwF draggable_list--panelTitleText--Bj2Hu">Local styles</div><span role="button" aria-label="Create style" tabindex="0" class="svg-container raw_components--iconButtonEnabled--dC-EG raw_components--_iconButton--aCldD styles--stylesHeaderButton--v6i3J draggable_list--addButton--9xznH" data-tooltip-type="text" data-tooltip="Create style"><svg class="svg" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 5.5v-5h1v5h5v1h-5v5h-1v-5h-5v-1h5z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div></div><div class="cachedSubtree" style="display: block;"><div class="raw_components--panel--YDedw "><div role="none" data-keyboard-receiver="9"><div class="raw_components--singleRowNarrow--CAKjX raw_components--_singleRow--haOPc raw_components--singleRowHeight--r92RH raw_components--_row--6Yz0U raw_components--rowNarrow--IjMZh draggable_list--panelHeaderRowFaded--JR1vo"><div class="draggable_list--headerRow--ccjEd draggable_list--_headerRow--6vWfj"><div class="raw_components--panelTitleFaded--7d1HE raw_components--panelTitle--gPkqQ draggable_list--panelTitle--ipyg-"><div class="draggable_list--panelTitleText--Bj2Hu">Export</div></div><div class="draggable_list--headerControls--4VXS-"><span role="button" aria-label="Add" tabindex="0" class="svg-container raw_components--iconButtonEnabled--dC-EG raw_components--_iconButton--aCldD draggable_list--addButton--9xznH"><svg class="svg" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 5.5v-5h1v5h5v1h-5v5h-1v-5h-5v-1h5z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></div></div></div><div></div></div></div></div><div class="cachedSubtree" style="display: block;"></div></div><div aria-hidden="true" tabindex="0"></div></div></div></div></div></div></div></div></div></div></div></div><div class="visually_hidden--visuallyHidden--sMum-" role="status">Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press ⌘/, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter ⌃⇧Question mark .</div></div><div class="flash_view--flashes--pcDZK"></div><div aria-hidden="false" class="visual_bell--base--UkJ7X"><div class="visual_bell--messageContainer--7nmeA _overlayBase--_overlayBase--VoHJ7 text--fontNeg14--TmjQA text--_fontBase--VaHfk text--_negText--7Cnf0"></div></div><div class="blocked_ui_loading_indicator--base--iBE49"><div class="blocked_ui_loading_indicator--messageContainer--cHweM _overlayBase--_overlayBase--VoHJ7 text--fontNeg14--TmjQA text--_fontBase--VaHfk text--_negText--7Cnf0 "></div></div><div></div><div></div><div class="bottom_right_tools_container--container--wpPX8" style="margin-bottom: 0px;"><div class="help_widget--container--n8zsB"><section class="help_widget--helpWidget--1t2eV text--_negText--7Cnf0" data-onboarding-key="bug-reporter-modal-key"><span role="button" aria-label="Help" aria-haspopup="true" aria-controls="26d6bdd7-bcd4-44a4-8a02-2b1e9f76dacd" aria-expanded="false" class="svg-container help_widget--clickableSvg--q86Am" data-onboarding-key="help-widget-zendesk" tabindex="0" data-fullscreen-intercept="true"><svg class="svg" width="8" height="14" viewBox="0 0 8 14" xmlns="http://www.w3.org/2000/svg"><path d="M5 13H4v1h1v-1zM4 1C2.343 1 1 2.343 1 4H0c0-2.21 1.79-4 4-4 2.21 0 4 1.79 4 4 0 1.268-.59 2.398-1.51 3.13l-.083.065C5.553 7.833 5 8.852 5 10H4c0-1.424.662-2.694 1.694-3.518l.083-.064C6.519 5.87 7 4.992 7 4c0-1.657-1.343-3-3-3z" fill-rule="nonzero" fill-opacity="1" fill="#fff" stroke="none"></path></svg></span><div class="zendesk-web-widget"></div><div aria-hidden="true" class="help_widget--tooltip--8jcf6 help_widget--tooltipPosition--Tw02u">Help and resources</div><div tabindex="0"></div></section></div></div></div></div></div></div>
+
+      <div class="file-browser-loading-page-container" data-preferred-theme="light">
+  <!--  Minimal theming logic, duplicated from web/js/figma_app/hooks/themes.ts -->
+<script nonce="">
+  let theme = window.localStorage.getItem('global-debug-theme-preference')
+  if (!theme || theme === 'legacy') {
+    theme = 'light'
+  }
+  document.querySelector(".file-browser-loading-page-container").dataset.preferredTheme = theme
+</script>
+
+
+  <div id="filebrowser-loading-page" class="filebrowser-loading-page filebrowser-loading-page-layout fadeOut hidden">
+    <div class="navbar"></div>
+
+    <!-- HAX: this sidebar is cloned and used outside of this page -->
+    <div id="filebrowser-loading-sidebar" class="filebrowser-loading-sidebar">
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+    </div>
+
+    <div class="page">
+
+        <div class="toolbar">
+          <div class="item"></div>
+        </div>
+
+
+
+      <div class="columns">
+
+
+        <div id="loading-content-pane" class="content filebrowser-loading-page">
+
+
+            <div class="file-grid create-file-grid">
+                <div class="create-file-tile">
+                  <div class="icon"></div>
+                  <div class="label"></div>
+                </div>
+                <div class="create-file-tile">
+                  <div class="icon"></div>
+                  <div class="label"></div>
+                </div>
+                <div class="create-file-tile">
+                  <div class="icon"></div>
+                  <div class="label"></div>
+                </div>
+            </div>
+
+            <div class="sort-dropdown">
+              <div class="row"></div>
+            </div>
+            <div class="file-grid">
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+                <div class="tile">
+                  <div class="inner">
+                    <div class="lower"></div>
+                  </div>
+                </div>
+            </div>
+
+
+        </div>
+
+      </div>
+    </div>
+
+    <div id="filebrowser-loading-progress-bar"></div>
+  </div>
+</div>
+
+
+    
+
+      <script nonce="">
+    window['sentryConfig'] = {
+      id: 1185374439421758512,
+    }
+  </script>
+
+      <script nonce="" src="https://www.figma.com/esbuild-artifacts/3774799606d9755b8837addbfee658145463d49c/js/figma_app.min.js.br" type="module"></script>
+
+  
+
+<iframe src="https://sprig.figma.com" aria-hidden="true" tabindex="-1" height="0" width="0" style="position: fixed; bottom: 0px; right: 0px; z-index: 2147483647; color-scheme: normal;"></iframe><div class="in_app_page--appFont--2LLwy"><div class="jsvm_ui--pluginUI--YQm-H in_app_page--appFont--2LLwy" data-testid="pluginModalContainer" style="display: none;"><div class="draggable_modal--positionedContainer--8AmbN js-fullscreen-prevent-event-capture " data-cancel-insertable-resource-drag-and-drop="true" style="left: 0px; top: 48px; width: 300px; height: 240px;"><div class="draggable_modal--frame--LKZW- modal--modalShadow--ucS5o" style="overflow: hidden;"><div><div aria-hidden="true" tabindex="0"></div><div><div class="draggable_modal--frameContent--3GXlL"><div class="draggable_modal--header--u4JcX  header_modal--header--DUPmR"><div class="header_modal--headerModalTitleWithoutOverflow---jCBm header_modal--headerModalTitle--5vfIk ellipsis--ellipsis--70pHK"></div><div class="header_modal--rightButtonsClassName--0epZ7"><button class="close_button--closeX--cA6xw " role="button" type="button" aria-label="Close" data-not-draggable="true" data-testid="pluginModal.draggableModal.headerModalContainer.close-button"><span class="svg-container"><svg class="svg" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><path d="M6 5.293l4.789-4.79.707.708-4.79 4.79 4.79 4.789-.707.707-4.79-4.79-4.789 4.79-.707-.707L5.293 6 .502 1.211 1.21.504 6 5.294z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></span></button></div></div><div class="draggable_modal--contentContainer--pH2Ry "><div role="none" data-keyboard-receiver="1"><iframe id="plugin-iframe-in-modal" name="Shim Plugin Iframe" title="Shim Plugin Iframe" allow="" src="/plugin-sandbox" style="width: 300px; height: 200px; display: none; pointer-events: auto; color-scheme: initial;"></iframe></div></div></div></div><div aria-hidden="true" tabindex="0"></div></div></div><div></div></div><iframe id="plugin-iframe-for-fetch" name="Shim Plugin Iframe" title="Shim Plugin Iframe" allow="" src="/plugin-sandbox" style="width: 300px; height: 200px; display: none; pointer-events: auto; color-scheme: initial;"></iframe></div></div></body>
